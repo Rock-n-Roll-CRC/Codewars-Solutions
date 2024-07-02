@@ -6,14 +6,14 @@ export const boolToWord = (bool: boolean): string => (bool ? "Yes" : "No");
 
 // Best Practice Solutions:
 /*
-1. Solution By ceottaki (Best Practices: 189, Clever: 22)
+1. Solution by ceottaki (Best Practices: 189, Clever: 22)
 
 export const boolToWord = (bool: boolean): string => {
   return bool ? "Yes" : "No";
 };
 
 
-2. Solution By Souzooka (Best Practices: 61, Clever: 21)
+2. Solution by Souzooka (Best Practices: 61, Clever: 21)
 
 export const boolToWord = (bool: boolean): string => (bool ? "Yes" : "No");
 */

@@ -12,14 +12,14 @@ export const removeChar = (str: string): string => str.slice(1, -1);
 
 // Best Practice Solutions:
 /*
-1. Solution By smepple (Best Practices: 118, Clever: 107)
+1. Solution by smepple (Best Practices: 118, Clever: 107)
 
 export function removeChar(str: string): string {
   return str.slice(1,-1);
 }
 
 
-2. Solution By logan.jones103 (Best Practices: 19, Clever: 6)
+2. Solution by logan.jones103 (Best Practices: 19, Clever: 6)
 
 export const removeChar = (str: string) => str.substring(1, str.length - 1);
 */

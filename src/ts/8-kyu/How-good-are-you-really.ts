@@ -25,7 +25,7 @@ export const betterThanAverage = (
 
 // Best Practice Solutions:
 /*
-1. Solution By eliseuvideira (Best Practices: 15, Clever: 8)
+1. Solution by eliseuvideira (Best Practices: 15, Clever: 8)
 
 export function betterThanAverage(classPoints: number[], yourPoints: number) {
   const average =
@@ -35,7 +35,7 @@ export function betterThanAverage(classPoints: number[], yourPoints: number) {
 }
 
 
-2. Solution By Iakov.Lushin (Best Practices: 15, Clever: 5)
+2. Solution by Iakov.Lushin (Best Practices: 15, Clever: 5)
 
 export function betterThanAverage(
   classPoints: number[],
